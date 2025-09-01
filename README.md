@@ -36,13 +36,13 @@ It is designed for learning purposes and can be extended into a full-fledged job
 Download ZIP
 
 1. Download the ZIP from GitHub:
-Download ZIP
+https://github.com/Asad-code79/job-portal-api/archive/refs/heads/main.zip
 
 
-2. Extract the ZIP file anywhere you like.
+3. Extract the ZIP file anywhere you like.
 
 
-3. Open the extracted folder (it will be named job-portal-api-main).
+4. Open the extracted folder (it will be named job-portal-api-main).
 
 2. Run the application:
 
