@@ -33,10 +33,16 @@ It is designed for learning purposes and can be extended into a full-fledged job
 
 ## Running the Project
 
-1. Clone the repo:
+Download ZIP
 
-git clone https://github.com/Asad-code79/job-portal-api.git  
-cd job-portal-api  
+1. Download the ZIP from GitHub:
+Download ZIP
+
+
+2. Extract the ZIP file anywhere you like.
+
+
+3. Open the extracted folder (it will be named job-portal-api-main).
 
 2. Run the application:
 
